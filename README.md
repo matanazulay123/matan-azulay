@@ -1,39 +1,103 @@
 # 👋 Hi, I'm Matan Azulay
 
-🎓 Practical Software Engineering graduate  
-💻 Passionate about Python, Java and fullstack development  
-🧠 Creative thinker who enjoys exploring new technologies and turning challenges into opportunities
+💻 Software Developer  
+📱 Focused on building real-world mobile and fullstack applications  
+🧠 Strong problem solver with a passion for clean architecture, UX, and scalable systems  
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🐶 **Dog Trip Project**  
-  Fullstack final project with location-based dog walking services. Built with Flask, MySQL, HTML/CSS, and JS.
+### 🐕 Dog Trip App (Flutter - Mobile)
+A modern mobile application that connects dog owners with dog walkers, designed with real product thinking and production-level architecture.
 
-- 📈 **Finance Screener**  
-  Python tool that scans S&P 500 and crypto markets using custom logic and parameters. Fast, flexible, and data-driven.
+**Key Features:**
+- Booking system with guided flow
+- Live GPS tracking (demo-based)
+- Chat between owner and walker (after approval)
+- In-app notifications system
+- Wallet & earnings for walkers
+- Admin dashboard (demo)
+- Multi-dog management (add/edit/delete)
+- Map-based route planning
 
-- 🎬 **Angular TV Series Catalog**  
-  Frontend Angular application that simulates a streaming-style series browser. Includes genre-based browsing, login & register using Reactive Forms, profile routing, and mock data management via services.
+**Tech Highlights:**
+- Flutter + Riverpod (state management)
+- Clean architecture (feature-based structure)
+- GoRouter (advanced navigation)
+- Scalable backend-ready design (Firebase integration planned)
+- Pricing engine with full breakdown logic
 
-- 🍪 Belle's Cookies – HTML Baking Site
+**Status:**
+- Core features complete  
+- Firebase integration pending  
+- Final UI polish & real-device testing in progress  
 
-A basic static website built with HTML, CSS, and JavaScript as part of my early web development journey.  
-The project includes multiple pages, simple layout styling, and interactive elements using vanilla JS.
+---
 
-🎯 Purpose: Learning structure, layout, and navigation without frameworks.
+### 🐶 Dog Trip Web Project (Flask - Fullstack)
+Fullstack final project with location-based dog walking services.
 
+**Tech:** Flask, MySQL, HTML, CSS, JavaScript  
+Includes authentication, booking system, and user interaction flows.
+
+---
+
+### 📈 Finance Screener
+Python-based tool that scans S&P 500 and crypto markets using custom logic and parameters.
+
+- Data-driven decision logic  
+- Fast scanning and filtering  
+- Built for flexibility and automation  
+
+---
+
+### 🎬 Angular TV Series Catalog
+Frontend Angular application simulating a streaming platform.
+
+- Genre-based browsing  
+- Login & registration (Reactive Forms)  
+- Profile routing  
+- Mock data via services  
+
+---
+
+### 🍪 Belle's Cookies – HTML Project
+A basic static website built during early learning phase.
+
+- Multi-page structure  
+- Vanilla JavaScript interactions  
+- Focus on layout and fundamentals  
 
 ---
 
 ## 🔧 Tech Stack
 
-`Python` | `Java` | `Flask` | `MySQL` | `JavaScript` | `HTML` | `CSS` | `Angular`
+**Languages:**  
+`Dart` | `Python` | `Java` | `JavaScript`
+
+**Frameworks & Tools:**  
+`Flutter` | `Riverpod` | `Flask` | `Angular`
+
+**Other:**  
+`MySQL` | `HTML` | `CSS` | `Git`
 
 ---
 
-## 📫 Let's connect
+## 🤖 AI-Driven Development
+
+Experienced in leveraging AI tools to:
+
+- Design system architecture  
+- Debug complex state management flows  
+- Improve code quality and structure  
+- Accelerate development and testing  
+
+Focused on using AI as a real development tool - not just for code generation, but for better engineering decisions.
+
+---
+
+## 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/matan-azulay/)  
 📧 matanazulay123@gmail.com
